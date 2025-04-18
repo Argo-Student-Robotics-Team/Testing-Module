@@ -1,0 +1,3 @@
+[console_scripts]
+realsense_test_node = realsense_tester.realsense_test_node:main
+

@@ -1,0 +1,35 @@
+running egg_info
+creating ../build/realsense_tester/realsense_tester.egg-info
+writing ../build/realsense_tester/realsense_tester.egg-info/PKG-INFO
+writing dependency_links to ../build/realsense_tester/realsense_tester.egg-info/dependency_links.txt
+writing entry points to ../build/realsense_tester/realsense_tester.egg-info/entry_points.txt
+writing requirements to ../build/realsense_tester/realsense_tester.egg-info/requires.txt
+writing top-level names to ../build/realsense_tester/realsense_tester.egg-info/top_level.txt
+writing manifest file '../build/realsense_tester/realsense_tester.egg-info/SOURCES.txt'
+reading manifest file '../build/realsense_tester/realsense_tester.egg-info/SOURCES.txt'
+writing manifest file '../build/realsense_tester/realsense_tester.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/stojan/ros2_ws/src/build/realsense_tester/build
+creating /home/stojan/ros2_ws/src/build/realsense_tester/build/lib
+creating /home/stojan/ros2_ws/src/build/realsense_tester/build/lib/realsense_tester
+copying realsense_tester/realsense_test_node.py -> /home/stojan/ros2_ws/src/build/realsense_tester/build/lib/realsense_tester
+copying realsense_tester/__init__.py -> /home/stojan/ros2_ws/src/build/realsense_tester/build/lib/realsense_tester
+running install
+running install_lib
+creating /home/stojan/ros2_ws/src/install/realsense_tester/lib/python3.10/site-packages/realsense_tester
+copying /home/stojan/ros2_ws/src/build/realsense_tester/build/lib/realsense_tester/realsense_test_node.py -> /home/stojan/ros2_ws/src/install/realsense_tester/lib/python3.10/site-packages/realsense_tester
+copying /home/stojan/ros2_ws/src/build/realsense_tester/build/lib/realsense_tester/__init__.py -> /home/stojan/ros2_ws/src/install/realsense_tester/lib/python3.10/site-packages/realsense_tester
+byte-compiling /home/stojan/ros2_ws/src/install/realsense_tester/lib/python3.10/site-packages/realsense_tester/realsense_test_node.py to realsense_test_node.cpython-310.pyc
+byte-compiling /home/stojan/ros2_ws/src/install/realsense_tester/lib/python3.10/site-packages/realsense_tester/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/stojan/ros2_ws/src/install/realsense_tester/share/ament_index
+creating /home/stojan/ros2_ws/src/install/realsense_tester/share/ament_index/resource_index
+creating /home/stojan/ros2_ws/src/install/realsense_tester/share/ament_index/resource_index/packages
+copying resource/realsense_tester -> /home/stojan/ros2_ws/src/install/realsense_tester/share/ament_index/resource_index/packages
+copying package.xml -> /home/stojan/ros2_ws/src/install/realsense_tester/share/realsense_tester
+running install_egg_info
+Copying ../build/realsense_tester/realsense_tester.egg-info to /home/stojan/ros2_ws/src/install/realsense_tester/lib/python3.10/site-packages/realsense_tester-0.0.0-py3.10.egg-info
+running install_scripts
+Installing realsense_test_node script to /home/stojan/ros2_ws/src/install/realsense_tester/lib/realsense_tester
+writing list of installed files to '/home/stojan/ros2_ws/src/build/realsense_tester/install.log'

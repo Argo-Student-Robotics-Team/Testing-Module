@@ -1,0 +1,17 @@
+running develop
+running egg_info
+writing realsense_tester.egg-info/PKG-INFO
+writing dependency_links to realsense_tester.egg-info/dependency_links.txt
+writing entry points to realsense_tester.egg-info/entry_points.txt
+writing requirements to realsense_tester.egg-info/requires.txt
+writing top-level names to realsense_tester.egg-info/top_level.txt
+reading manifest file 'realsense_tester.egg-info/SOURCES.txt'
+writing manifest file 'realsense_tester.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/stojan/ros2_ws/src/install/realsense_tester/lib/python3.10/site-packages/realsense-tester.egg-link (link to .)
+Installing realsense_test_node script to /home/stojan/ros2_ws/src/install/realsense_tester/lib/realsense_tester
+
+Installed /home/stojan/ros2_ws/src/build/realsense_tester
+running symlink_data
+symbolically linking /home/stojan/ros2_ws/src/build/realsense_tester/resource/realsense_tester -> /home/stojan/ros2_ws/src/install/realsense_tester/share/ament_index/resource_index/packages
+symbolically linking /home/stojan/ros2_ws/src/build/realsense_tester/package.xml -> /home/stojan/ros2_ws/src/install/realsense_tester/share/realsense_tester
